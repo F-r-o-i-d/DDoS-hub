@@ -17,3 +17,7 @@ def ShowMenu():
     ip = str(input("ip :"))
     port = int(input("port :"))
     MutliThreadAttack(ip,port)
+
+
+if __name__ == "__main__":
+    ShowMenu()
