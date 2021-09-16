@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DDoS hub", "DDoS hub\DDoS hub.pyproj", "{AD29B667-DF4F-4C7C-8EE5-321E3D8D07CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD29B667-DF4F-4C7C-8EE5-321E3D8D07CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD29B667-DF4F-4C7C-8EE5-321E3D8D07CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97BFEA21-0817-4BD6-8CC7-AF8C2EF3DEBA}
+	EndGlobalSection
+EndGlobal
